@@ -21,5 +21,8 @@
     <ClCompile Include="Class.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="생성자, 소멸자, 상속.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
